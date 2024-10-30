@@ -1,0 +1,12 @@
+#wpcontent {
+    padding-left: 0 !important;
+    height: 100%;
+}
+
+.wrap {
+    height: auto;
+    min-height: 100%;
+    margin: 0;
+    position: relative;
+    -webkit-font-smoothing: subpixel-antialiased;
+}

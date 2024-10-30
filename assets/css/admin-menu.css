@@ -1,0 +1,25 @@
+
+#toplevel_page_fff_auto_post .wp-menu-image img {
+    padding: 2px 0 0 0;
+    opacity: .6;
+    width:70%;
+}
+
+.fff-modal-loading {
+    right: auto !important;
+    background: transparent !important;
+}
+
+.fff-modal-loading-container {
+    backdrop-filter: blur(2px);
+}
+
+.fff-modal-loading button {
+    
+    border: .35em solid transparent !important;
+    border-left-color: #f1f1f1 !important;
+    border-right-color: #f1f1f1 !important;
+    width: 3.5em !important;
+    height: 3.5em !important;
+}
+
